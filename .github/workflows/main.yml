@@ -1,4 +1,4 @@
-name: IITM Assignment
+name: Main
 
 on:
   push:
